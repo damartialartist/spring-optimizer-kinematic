@@ -91,6 +91,7 @@ classdef carP
             + L4^2*tan( theta1/2)^2*tan(theta4/2)^2 + 2*L1*L3*tan( theta1/2)^2 - 2*L1*L4*tan( theta1/2)^2 - 2*L1*L3*tan(theta4/2)^2 - 2*L3*L4*tan( theta1/2)^2 - 2*L1*L4*tan(theta4/2)^2  ...
             + 2*L3*L4*tan(theta4/2)^2 + 2*L1*L3*tan( theta1/2)^2*tan(theta4/2)^2 + 2*L1*L4*tan( theta1/2)^2*tan(theta4/2)^2 + 2*L3*L4*tan( theta1/2)^2*tan(theta4/2)^2  ...
             + 8*L1*L4*tan( theta1/2)*tan(theta4/2)));
+        
        end
    end
 end
